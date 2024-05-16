@@ -1,0 +1,5 @@
+quarter_number,revenue,previous_revenue,qoq_perc_change
+1,39421572,NULL,NULL
+2,32715830,39421572,-0.1701
+3,29229898,32715830,-0.1066
+4,23346776,29229898,-0.2013

@@ -1,0 +1,50 @@
+customer_id,state,COUNT(*)
+0002-4115,"New Jersey",9
+0002-4465,Indiana,21
+0002-7597,Washington,28
+0006-0740,California,97
+0006-0951,"District of Columbia",35
+0008-1123,Texas,97
+0013-2653,Virginia,24
+0023-4385,Illinois,25
+0023-4964,Florida,86
+0024-2792,Colorado,33
+0025-1851,Iowa,11
+0054-8181,Alabama,29
+0065-0454,Minnesota,17
+0065-0530,Utah,10
+0067-4870,Connecticut,22
+0069-6001,Louisiana,20
+0093-5142,Georgia,18
+0093-5517,"New York",69
+0093-6126,Michigan,17
+0113-0425,Ohio,33
+0115-1232,Wisconsin,8
+0121-0772,Kansas,13
+0135-0460,Arkansas,6
+0135-0505,Missouri,23
+0143-9856,"North Carolina",20
+0173-0772,"South Carolina",9
+0178-0370,"New Hampshire",3
+0220-9081,Pennsylvania,25
+0268-0030,Nebraska,7
+0268-0899,Oklahoma,16
+0283-0679,Massachusetts,14
+0363-0657,Arizona,26
+0378-0145,"North Dakota",2
+0378-4513,Tennessee,23
+0409-0219,Nevada,17
+0409-1163,Idaho,7
+0456-0095,"West Virginia",10
+0682-0334,Alaska,10
+0781-5385,Hawaii,6
+10019-035,Maryland,14
+36987-1348,Delaware,6
+36987-2177,"New Mexico",5
+41268-441,Maine,1
+43063-051,Montana,3
+45802-453,Kentucky,8
+47682-101,Mississippi,2
+48951-7116,Oregon,7
+59779-224,Wyoming,1
+98132-728,Vermont,1
